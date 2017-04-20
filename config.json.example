@@ -1,0 +1,4 @@
+{
+  "host": "http://localhost:3000",
+  "casHost": "replace with CAS server host"
+}
